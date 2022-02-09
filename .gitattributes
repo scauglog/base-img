@@ -1,0 +1,3 @@
+toto.conf filter=git-crypt diff=git-crypt
+*.conf filter=git-crypt diff=git-crypt
+mydir/** filter=git-crypt diff=git-crypt
